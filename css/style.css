@@ -49,6 +49,8 @@ margin: auto;
 
 
  }
+
+
  #normal{
 text-decoration: none;
 color: #000;
@@ -70,7 +72,7 @@ color: #000;
  }
 
  .paintsample:hover{
-    color: black;
+    color: rgb(78, 78, 78);
  }
  .sample{
     margin-top: 50px;
@@ -144,7 +146,7 @@ footer{
   }
   
   .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px 0 rgba(192, 119, 119, 0.2);
     margin: 8px;
   }
   
@@ -179,5 +181,6 @@ footer{
   .button:hover {
     background-color: #555;
   }
-  
+
+ 
  
